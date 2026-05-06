@@ -1,4 +1,4 @@
-# 🎬 CineGraph — Análise de Redes no Cinema com Neo4j
+# 🎬 — Análise de Redes no Cinema com Neo4j
 
 > Projeto DIO · Banco de Dados em Grafos com Neo4j
 > Modelagem e análise de relacionamentos entre filmes, atores, diretores e gêneros usando grafos.
